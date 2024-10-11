@@ -22,9 +22,9 @@ repository               : "leonresearch/leonresearch.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Huidong Liang"
+  name             : "Huidong (Leon) Liang"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "I am a second-year PhD student at Oxford in machine learning."
   location         : "Oxford, UK"
   employer         : "University of Oxford"
   uri              : # URL
