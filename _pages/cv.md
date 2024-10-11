@@ -11,9 +11,12 @@ redirect_from:
 
 Education
 ------
-* PhD Machine Learning, University of Oxford, 2023 - 2027
-* MSc Statistical Science, University of Oxford, 2022 - 2023
-* BoC \[Hons\] Business School, University of Sydney, 2018 - 2022
+
+|          |          |          |
+|----------|----------|----------|
+| PhD Machine Learning  | University of Oxford   | 2023 - 2027  |
+| MSc Statistical Science | University of Oxford  | 2022 - 2023 |
+| BoC \[Hons\] Business School | University of Sydney | 2018 - 2022 |
 
 Industry Experience
 ------
