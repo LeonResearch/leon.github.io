@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+Here is a copy of my ![CV](\files\resume.pdf).
+
 Education
 ------
 * PhD Machine Learning, University of Oxford, 2023 - 2027
