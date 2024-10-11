@@ -17,7 +17,7 @@ Education
 
 Industry Experience
 ======
-* ByteDance AI Lab Intern
+* ByteDance AI Lab Intern, March 2022 - August 2022
   * *Intelligent Audion and Speech Group* 
 
 * Fall 2015: Research Assistant
