@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Here is a copy of my ![CV](\files\resume.pdf).
+Here is a copy of my [CV](\files\resume.pdf).
 
 Education
 ------
