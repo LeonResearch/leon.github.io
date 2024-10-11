@@ -17,10 +17,8 @@ Education
 
 Industry Experience
 ======
-* ByteDance AI Lab
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* ByteDance AI Lab Intern
+  * *Intelligent Audion and Speech Group* 
 
 * Fall 2015: Research Assistant
   * Github University
